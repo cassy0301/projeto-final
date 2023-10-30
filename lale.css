@@ -1,0 +1,142 @@
+.body {
+    width: 1440px;
+    height: 2417px;
+    background-color: white
+}
+.header {
+    background-color: rgb(255, 94, 0);
+    height: 150px;
+    
+}
+.logo-lale {
+    margin-top: 15px;
+}
+.butao-navbar {
+    background-color: rgb(255, 94, 0);
+    border-color: white;
+    border-radius: 64px;
+    border-width: 5px;
+    border-style: solid;
+    color: white;
+    padding: 5px 50px;
+    text-align: justify;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: system-ui, -apple-system;
+    margin-bottom: 25px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.info {
+    margin-top: 150px;
+    margin-left: 250px;
+}
+h1{
+    width: 261px;
+    height: 52px;
+    display: flex;
+    margin-bottom: 0px;
+    font-family: system-ui, -apple-system;
+}
+h3{
+    color: #5E5E5E;
+    font-family: system-ui, -apple-system;
+    font-size: 20px;
+    text-align: justify;    
+    margin-right: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+.imagem {
+    width: 269px;
+    height: 392px;    
+}
+
+.container {
+    display: flex;
+    margin-left: 10px;
+}
+.container2 {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.horario {
+    color: black;
+    
+}
+p{
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.menu {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+h2 {
+    color: #333;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
+.cardapio{
+    margin-top: 150px;
+    font-weight: 600;
+    font-size: 25px;
+    font-style: italic;
+    color: black;
+    margin-left: 120px;
+    background-color: rgb(255, 94, 0);
+    border-color: rgb(255, 94, 0);
+    border-radius: 64px;
+    border-width: 10px;
+    border-style:outset;
+    font-family: system-ui, -apple-system;
+}
+a {
+    
+    text-decoration: none;
+    color: black;
+
+}
+.menu{
+    text-align: center;
+    font-family: system-ui, -apple-system;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.botao-cardapio{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+.menu {
+    width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+.column {
+    float: left;
+    width: 25%;
+    letter-spacing: 1px;
+}
+h2 {
+    color: #333;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
